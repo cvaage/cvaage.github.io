@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Educational Outreach in my Home State
+title: Home State Outreach
 ---
 ### Youth Outdoor Education
 *[under construction - come back soon!]*
