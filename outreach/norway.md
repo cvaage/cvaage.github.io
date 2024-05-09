@@ -1,4 +1,5 @@
 ---
 layout: page
-title: The power of Friluftsliv
+title: The Power of Friluftsliv
 ---
+*[under construction - come back soon!]*
