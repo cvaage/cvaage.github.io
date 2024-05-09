@@ -11,7 +11,7 @@ I joined the [Freshwater Ecology and Conservation Lab](https://www.oldenfish.com
 ### Contact Information
 **Email:** cvaage@uw.edu
 
-**Office:** School of Aquatic and Fishery Sciences, Fishery Sciences Building (FSH), Room 317B
+**Office:** School of Aquatic and Fishery Sciences, Fishery Sciences Building (FSH) 317B
 
 **Mailing Address:** 
 1122 NE Boat St
