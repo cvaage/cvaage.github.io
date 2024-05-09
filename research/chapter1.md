@@ -8,6 +8,7 @@ My research of my first chapter is based upon a funded grant from the Northwest 
 
 ### SciComm
 WDAFS 2023 - Boise, Idaho: Towards a better understanding of invasive crayfish impacts on salmonids
+
 ESA 2023 - Portland, Oregon: Density-driven interactions between two invaders with implications for endangered salmon
 
 ![model](/assets/img/esa.png)
