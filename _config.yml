@@ -44,7 +44,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/W-Logo_White.png
+# title-img: /assets/img/W-Logo_White.png
 
 
 #####################################
@@ -55,9 +55,9 @@ title-img: /assets/img/W-Logo_White.png
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "cvaage@uw.edu"
+  email: "claire.vaage@whooshh.com"
   github: cvaage
-  twitter: VaageFisheries
+#  twitter: VaageFisheries
 #  medium: yourname
 #  reddit: yourname
   linkedin: clairevaage
@@ -73,7 +73,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
+  bluesky: clairevaage
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
